@@ -3,14 +3,14 @@ This is a basic, hard-coded Direct3D 12 program.
 
 TO DO:
 
-update to winrt::com_ptr
-check HRESULTs
-validate m_hWnd
-PeekMessage in message loop
-build geometries, materials, and textures
-build shaders and input layout
-create vertex, index, texture, and constant buffers
-create RootSignature and PipelineState
-mouse and keyboard messages
-update OnUpdate and OnRender
+1. update to winrt::com_ptr
+2. check HRESULTs
+3. validate m_hWnd
+4. PeekMessage in message loop
+5. build geometries, materials, and textures
+6. build shaders and input layout
+7. create vertex, index, texture, and constant buffers
+8. create RootSignature and PipelineState
+9. mouse and keyboard messages
+10. update OnUpdate and OnRender
 
