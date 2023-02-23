@@ -1,5 +1,18 @@
 // d3d12.lib, dxgi.lib, and d3dcompiler.lib set in Project settings
 
+// TO DO:
+
+// update to winrt::com_ptr
+// check HRESULTs
+// validate m_hWnd
+// PeekMessage in message loop
+// build geometries, materials, and textures
+// build shaders and input layout
+// create vertex, index, texture, and constant buffers
+// create RootSignature and PipelineState
+// mouse and keyboard messages
+// update OnUpdate and OnRender
+
 #include "main.h"
 #include "D3D12App.h"
 
@@ -18,5 +31,6 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance
 
     D3D12App app(hInstance, nCmdShow);
     app.InitializeWindow();
+    app.InitializeD3D12();
     return app.RunMessageLoop();
 }

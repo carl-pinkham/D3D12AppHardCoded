@@ -143,7 +143,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="d3d12.h" />
     <ClInclude Include="D3D12App.h" />
+    <ClInclude Include="d3dx12.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
