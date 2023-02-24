@@ -12,6 +12,9 @@
 // create RootSignature and PipelineState
 // mouse and keyboard messages
 // update OnUpdate and OnRender
+// -----------------------------------------------------------------
+// debug
+// exceptions
 
 #include "main.h"
 #include "D3D12App.h"

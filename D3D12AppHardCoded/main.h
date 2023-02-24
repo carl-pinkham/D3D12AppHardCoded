@@ -16,5 +16,18 @@
 #include <DirectXMath.h>
 #include <DirectXPackedVector.h>
 #include <DirectXColors.h>
+#include <DirectXCollision.h>
 
-#endif
+#include <cstdint>
+#include <unordered_map>
+#include <float.h>
+#include <cmath>
+#include <comdef.h>
+#include <fstream>
+#include <assert.h>
+#include <algorithm>
+#include <memory>
+#include <vector>
+#include <wrl.h>
+
+#endif // MAIN_H_

@@ -64,4 +64,4 @@ private:
 
 };
 
-#endif
+#endif // D3D12APP_H_
