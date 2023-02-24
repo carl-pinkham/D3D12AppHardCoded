@@ -21,25 +21,10 @@
     <ClCompile Include="D3D12App.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Camera.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="DDSTextureLoader.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FrameResource.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="GameTimer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="GeometryGenerator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MathHelper.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="d3dUtil.cpp">
+    <ClCompile Include="DDSTextureLoader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -56,28 +41,10 @@
     <ClInclude Include="d3d12.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Camera.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="DDSTextureLoader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="FrameResource.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="GameTimer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="GeometryGenerator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MathHelper.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="UploadBuffer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="d3dUtil.h">
+    <ClInclude Include="DDSTextureLoader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

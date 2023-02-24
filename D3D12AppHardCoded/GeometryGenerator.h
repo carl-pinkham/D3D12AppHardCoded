@@ -15,7 +15,9 @@
 #ifndef GEOMETRYGENERATOR_H_
 #define GEOMETRYGENERATOR_H_
 
-#include "main.h"
+#include <cstdint>
+#include <DirectXMath.h>
+#include <vector>
 
 class GeometryGenerator
 {

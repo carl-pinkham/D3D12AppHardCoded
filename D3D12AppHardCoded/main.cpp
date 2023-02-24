@@ -1,18 +1,14 @@
 // d3d12.lib, dxgi.lib, and d3dcompiler.lib set in Project settings
 
+//***************************************************************************************
+// adapted from CameraAndDynamicIndexingApp.cpp by Frank Luna (C) 2015 All Rights Reserved.
+//***************************************************************************************
+
 // TO DO:
 
 // update to winrt::com_ptr
 // check HRESULTs
 // validate m_hWnd
-// PeekMessage in message loop
-// build geometries, materials, and textures
-// build shaders and input layout
-// create vertex, index, texture, and constant buffers
-// create RootSignature and PipelineState
-// mouse and keyboard messages
-// update OnUpdate and OnRender
-// -----------------------------------------------------------------
 // debug
 // exceptions
 
