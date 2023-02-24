@@ -1,5 +1,5 @@
 # D3D12AppHardCoded
-This is a basic, hard-coded Direct3D 12 program.
+This is a basic, hard-coded Direct3D 12 program.  This program is adapted from CameraAndDynamicIndexingApp.cpp by Frank Luna (C) 2015 All Rights Reserved.
 
 TO DO:
 
