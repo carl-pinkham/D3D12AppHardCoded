@@ -13,4 +13,5 @@ TO DO:
 8. create RootSignature and PipelineState
 9. mouse and keyboard messages
 10. update OnUpdate and OnRender
-
+11. debug
+12. exceptions
