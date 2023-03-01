@@ -6,11 +6,12 @@
 
 // TO DO:
 
-// update to winrt::com_ptr
+// change from raw pointers to ComPtr
 // check HRESULTs
 // validate m_hWnd
 // debug
 // exceptions
+// reorganize code into separate header and implementation files
 
 #include "main.h"
 #include "D3D12App.h"
